@@ -9,7 +9,7 @@ What is the percentage split of the amount of active hours vs the amount of fish
 What are the gross tonnage totals for each country's fishing fleet?
 
 Files Description:
-- Fishing Vessels - Cleaned.csv is my post data cleaning CSV file which was used for my analysis in Milestone 4 of my project. I detailed the cleaning process of this file in Milestone 3 of my project.
+- Fishing Vessels - Cleaned.zip is my post data cleaning CSV file which was used for my analysis in Milestone 4 of my project. I detailed the cleaning process of this file in Milestone 3 of my project. Cannot be uploaded as a CSV due to it's size, so it is compressed.
 - Matthew Moskal Final Project Milestone 2.ipynb - This Jupyter Notebook details me exploring my dataset and doing exploratory analysis on what my chosen dataset contains.
 - Matthew Moskal Final Project Milestone 3.ipynb - This Jupyter Notebook details the cleaning process of my dataset
 - Matthew Moskal Final Project Milestone 4.ipynb - This Jupyter Notebook details the graphing and analysis of my 4 chosen questions listed above
